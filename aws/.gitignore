@@ -1,0 +1,4 @@
+terraform.tfstate
+terraform.tfstate.backup
+./terraform/*
+group1-new.pem
